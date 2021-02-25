@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475582894515",
+    "project_id": "crash-91042",
+    "storage_bucket": "crash-91042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475582894515:android:cde34990d2504c79a5fbc6",
+        "android_client_info": {
+          "package_name": "com.theo.test1crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475582894515-ucl01pvidq06m1edpgl4al5ipj8qogsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbw7_jzMlCSYH6wqjXC8cxL06hE3uxEUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475582894515-ucl01pvidq06m1edpgl4al5ipj8qogsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
